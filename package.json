@@ -1,0 +1,22 @@
+{
+  "name": "ocr-app",
+  "version": "1.0.0",
+  "description": "simple note reader for class :3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KevinFloris20/OCr-App.git"
+  },
+  "author": "Kevin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KevinFloris20/OCr-App/issues"
+  },
+  "homepage": "https://github.com/KevinFloris20/OCr-App#readme",
+  "dependencies": {
+    "dependencies": "0.0.1"
+  }
+}
